@@ -11,6 +11,8 @@
 		DACB9D2C28AE9AB800C8DFD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACB9D2B28AE9AB800C8DFD9 /* ContentView.swift */; };
 		DACB9D2E28AE9AB900C8DFD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DACB9D2D28AE9AB900C8DFD9 /* Assets.xcassets */; };
 		DACB9D3128AE9AB900C8DFD9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DACB9D3028AE9AB900C8DFD9 /* Preview Assets.xcassets */; };
+		DACB9D3828AE9DAB00C8DFD9 /* Week1SwiftView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACB9D3728AE9DAB00C8DFD9 /* Week1SwiftView.swift */; };
+		DACB9D3A28AE9E5500C8DFD9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DACB9D3928AE9E5500C8DFD9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DACB9D2B28AE9AB800C8DFD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DACB9D2D28AE9AB900C8DFD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DACB9D3028AE9AB900C8DFD9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DACB9D3728AE9DAB00C8DFD9 /* Week1SwiftView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week1SwiftView.swift; sourceTree = "<group>"; };
+		DACB9D3928AE9E5500C8DFD9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +39,7 @@
 		DACB9D1D28AE9AB800C8DFD9 = {
 			isa = PBXGroup;
 			children = (
+				DACB9D3928AE9E5500C8DFD9 /* README.md */,
 				DACB9D2828AE9AB800C8DFD9 /* XcodeGitHubDemo */,
 				DACB9D2728AE9AB800C8DFD9 /* Products */,
 			);
@@ -52,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				DACB9D2928AE9AB800C8DFD9 /* XcodeGitHubDemoApp.swift */,
+				DACB9D3728AE9DAB00C8DFD9 /* Week1SwiftView.swift */,
 				DACB9D2B28AE9AB800C8DFD9 /* ContentView.swift */,
 				DACB9D2D28AE9AB900C8DFD9 /* Assets.xcassets */,
 				DACB9D2F28AE9AB900C8DFD9 /* Preview Content */,
@@ -125,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DACB9D3A28AE9E5500C8DFD9 /* README.md in Resources */,
 				DACB9D3128AE9AB900C8DFD9 /* Preview Assets.xcassets in Resources */,
 				DACB9D2E28AE9AB900C8DFD9 /* Assets.xcassets in Resources */,
 			);
@@ -139,6 +146,7 @@
 			files = (
 				DACB9D2C28AE9AB800C8DFD9 /* ContentView.swift in Sources */,
 				DACB9D2A28AE9AB800C8DFD9 /* XcodeGitHubDemoApp.swift in Sources */,
+				DACB9D3828AE9DAB00C8DFD9 /* Week1SwiftView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
